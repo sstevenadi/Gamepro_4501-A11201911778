@@ -59,6 +59,9 @@
      <Compile Include="Assets\Scripts\Pertemuan 2\CobaArray.cs" />
      <Compile Include="Assets\Scripts\Pertemuan 2\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\Pertemuan 3\CoinMove.cs" />
+     <Compile Include="Assets\Scripts\Pertemuan 4\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\Pertemuan 4\ObstacleGame.cs" />
+     <Compile Include="Assets\Scripts\Pertemuan 4\GenerateObs.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/2020.3.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
